@@ -5,4 +5,4 @@ My current interests are:
 - Financial Contagion Models
 - Low-Level Programming
 
-I build things.
+I build things (using vim).
